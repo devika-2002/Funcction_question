@@ -1,7 +1,7 @@
-def fun() :   
-    string_name = "Shakrudin"
-    print (len(string_name))
-fun()
+# def fun() :   
+#     string_name = "Shakrudin"
+#     print (len(string_name))
+# fun()
 
 # string_name = "Rishabh Verma"
 # print (len(string_name))
@@ -12,3 +12,5 @@ fun()
 # else:
 #     print ("n nahi hai")
    
+
+
